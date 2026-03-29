@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <div className={styes.hero}>
-        <h1>Welcome to our website</h1>
+        <h1>مرحبا بك</h1>
       </div>
     </div>
   )
