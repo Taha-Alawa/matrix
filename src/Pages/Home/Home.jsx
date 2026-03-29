@@ -1,9 +1,11 @@
-import React from 'react'
+import styes from './Home.module.css'
 
 const Home = () => {
   return (
     <div>
-      home
+      <div className={styes.hero}>
+        <h1>Welcome to our website</h1>
+      </div>
     </div>
   )
 }
